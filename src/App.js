@@ -1,5 +1,6 @@
 import "./App.css";
 import { Hero } from "./Hero";
+import { Links } from "./Navbar/links";
 import { Navbar } from "./Navbar/navbar";
 
 function App() {
